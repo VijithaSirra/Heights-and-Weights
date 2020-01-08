@@ -2,11 +2,11 @@
 <p align="center">
   <img src="players.jpg">
 </p>
-```
+
 - #### Human Height and Weight are mostly hereditable, but lifestyles, diet, health and environmental factors
 - #### This also play a role in determining individual's physical characteristics. 
 - #### Here we are going to predict the gender as per height and weight
-```
+
 #### Data devided into two sets like train and test . we are giving train set for analysing and test for accuracy score.
 
 ##### Shape of the total data (10000, 3)
