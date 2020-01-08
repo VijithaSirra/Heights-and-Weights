@@ -1,4 +1,4 @@
-# Heights And Weights
+# <center>Heights And Weights
 <p align="center">
   <img src="players.jpg">
 </p>
