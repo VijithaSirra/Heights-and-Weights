@@ -1,5 +1,8 @@
 # Heights And Weights
-!<p align="center"> [](players.jpg) </p>
+<p align="center">
+  <img width="600" height="200" src="https://www.python.org/python-.png">
+</p>
+<p align="center"> ![](players.jpg) </p>
 
 #### Human Height and Weight are mostly hereditable, but lifestyles, diet, health and environmental factors
 #### This also play a role in determining individual's physical characteristics. 
