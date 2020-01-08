@@ -1,6 +1,6 @@
 # Heights And Weights
 <p align="center">
-  <img width="600" height="400" src="players.jpg">
+  <img src="players.jpg">
 </p>
 
 #### Human Height and Weight are mostly hereditable, but lifestyles, diet, health and environmental factors
