@@ -4,6 +4,7 @@
 </p>
 
 - #### Human Height and Weight are mostly hereditable, but lifestyles, diet, health and environmental factors
+<bash>
 - #### This also play a role in determining individual's physical characteristics. 
 - #### Here we are going to predict the gender as per height and weight
 
