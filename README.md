@@ -10,7 +10,10 @@ Data devided into two sets like train and test . we are giving train set for ana
 
 Shape of the total data (10000, 3)
 
-Attributes  Gender , Height and Weight 
+### Attributes :
+. Gender 
+. Height & 
+. Weight 
 
 Reference : 
 
