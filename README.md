@@ -18,4 +18,4 @@
 
 ## Reference : 
 
-Hung-Kwan So, Edmund AS Nelson, Albert M Li, Eric MC Wong, Joseph TF Lau, Georgia S Guldan, Kwok-Hang Mak, Youfa Wang, Tai-Fai Fok, and Rita YT Sung. (2008) Secular changes in height, weight and body mass index in Hong Kong Children. BMC Public Health. 2008; 8: 320. doi: 10.1186/1471-2458-8-320. PMCID: PMC2572616
+[Hung-Kwan So, Edmund AS Nelson, Albert M Li, Eric MC Wong, Joseph TF Lau, Georgia S Guldan, Kwok-Hang Mak, Youfa Wang, Tai-Fai Fok, and Rita YT Sung. (2008) Secular changes in height, weight and body mass index in Hong Kong Children. BMC Public Health. 2008; 8: 320. doi: 10.1186/1471-2458-8-320. PMCID: PMC2572616](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2572616/)
